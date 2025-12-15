@@ -198,9 +198,6 @@ npm run build
 
 Production build sẽ ở trong `frontend/dist/`
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
